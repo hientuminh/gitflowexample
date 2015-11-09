@@ -1,2 +1,2 @@
 1. git flow example
-2.
+2. git
