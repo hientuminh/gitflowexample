@@ -2,3 +2,4 @@ feature-E-1
 feature-F
 feature-E-12
 feature-F-2
+feature-G
